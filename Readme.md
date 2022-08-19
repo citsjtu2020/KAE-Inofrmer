@@ -82,7 +82,7 @@ the requirement.txt is at: KAE-Informer/
    
    --event_d_model: dimension of hidden layers in the ER-embedding architectures
    
-   --event_d_ff: dimeansion of the fcn in ER-embedding layers
+   --event_d_ff: dimension of the fcn in ER-embedding layers
    
    --data: the domain of this data, default: qps (do not change)
    
